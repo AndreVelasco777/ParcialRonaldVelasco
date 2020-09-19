@@ -14,7 +14,7 @@ namespace ParcialRonaldVelasco.Models
         [Required]
         public string Iso639_2 { get; set; }
         [Required]
-        public string Name { get; set; }
+        public string NAME { get; set; }
         [Required]
         public string NativeName { get; set; }
     }
